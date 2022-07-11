@@ -1,6 +1,6 @@
 # Wioniqle.q Wifi Grabber
 
-Bu projeyi kullanarak bilgisayarınıza daha önceden giriş yapmış olduğunuz wifi kullanıcı adı ve şifreleri elde edebilirsiniz.
+Bu projeyi kullanarak bilgisayarınıza daha önceden giriş yapmış olduğunuz wifi kullanıcı adı ve şifreleri ``dizi`` formatında elde edebilirsiniz.
 
 ## Ana Menü
 Proje içerisinde yer alan fonksiyonları en alt satırda çağırarak kullanabilirsiniz. Dilerseniz geliştirerek kendinize uygun bir hale getirebilirsiniz.
